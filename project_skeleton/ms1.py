@@ -1,7 +1,7 @@
 import pygame
 import sys
 import random
-from cell import Cell
+from cell_ms import Cell
 from calcs import measure_distance
 
 pygame.init()
